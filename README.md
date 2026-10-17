@@ -1,1 +1,1 @@
-<div align="center">$\color{#828E6C}{\mathcal{HELLO\ WORLD}}$</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%A6+If+you're+so+funny%2C;why+are+you+on+your+own+tonight%3F;And+if+you're+so+clever;why+are+you+on+your+own+tonight%3F)](https://git.io/typing-svg)
