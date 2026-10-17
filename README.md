@@ -3,19 +3,16 @@
 <table align="center">
   <tr>
     <td style="vertical-align: middle; padding-right: 20px;">
-      <!-- Fixed CDN link for your rose image -->
-      <img width="158" height="117" alt="image" src="https://github.com/user-attachments/assets/d1d1509c-1744-4cab-9b67-0d3011c1f6f3" />
+      <img width="50" height="40="image" src="https://github.com/user-attachments/assets/d1d1509c-1744-4cab-9b67-0d3011c1f6f3" />
     </td>
     <td style="vertical-align: middle;">
       <p align="center" style="margin: 0;">
-        <i>$\color{#C87357}{\huge\textbf{will you come and see me?}}$</i><br>
-        <i>$\color{#A5B489}{\huge\textbf{I suppose we'll never know.}}$</i>
+        $\color{#C87357}{\large\textbf{will you come and see me?}}$<br>
+        $\color{#A5B489}{\large\textbf{I suppose we'll never know.}}$
       </p>
     </td>
   </tr>
 </table>
-
-
 
 
 
